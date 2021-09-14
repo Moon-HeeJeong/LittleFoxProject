@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LittleFoxProject</string>
+    <string name="first_toolbar_title">Video Play Test</string>
+    <string name="first_list_name">유저이름</string>
+
+    <string name="second_toolbar_title">유저이름</string>
+
+    <string name="video_control_start">start</string>
+    <string name="video_control_pause">pause</string>
+</resources>
