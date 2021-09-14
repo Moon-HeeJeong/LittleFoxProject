@@ -19,7 +19,7 @@ import kotlin.collections.ArrayList
 
 class FirstActivity: AppCompatActivity() {
 
-    val auth:String = "563492ad6f9170000100000130d4d4134d934e1ab03e08d12a6716ac"
+    val auth:String = "enter auth key"
     lateinit var binding: ActivityFirstBinding
 
     private lateinit var videoRecyclerview: RecyclerView
